@@ -45,26 +45,7 @@
 
 ---
 
-### 🌟 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| 🎂 [MyCakeShop](https://github.com/Allutfi/mycakeshop) | Full-stack cake shop e-commerce app | Laravel 13 · Next.js 16 · Docker · MySQL |
-| 🏫 [Website Sekolah](https://github.com/Allutfi/website-sekolah) | School profile & information website | Laravel · Next.js |
-| 💼 [DevFlowin](https://github.com/Allutfi/devflowin) | Website digitalization service for Indonesian UMKM (PKM-K project) | Laravel |
-
-> 📝 Replace the links above with your actual GitHub repository URLs.
-
----
-
 ### 📊 GitHub Stats
-
-<table align="center">
-<tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=Allutfi&show_icons=true&theme=tokyonight&hide_border=true" /></td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allutfi&layout=compact&theme=tokyonight&hide_border=true" /></td>
-</tr>
-</table>
 
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=Allutfi&theme=tokyonight&hide_border=true" />
